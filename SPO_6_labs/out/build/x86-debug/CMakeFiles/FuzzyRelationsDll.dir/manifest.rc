@@ -1,0 +1,2 @@
+#pragma code_page(65001)
+2 /* CREATEPROCESS_MANIFEST_RESOURCE_ID */ 24 /* RT_MANIFEST */ "C:/Users/iamal/source/repos/SPO_6_labs/out/build/x86-debug/CMakeFiles/FuzzyRelationsDll.dir/embed.manifest"

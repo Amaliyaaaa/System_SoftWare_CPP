@@ -1,0 +1,4 @@
+C:/Users/iamal/source/repos/SPO_6_labs/out/build/x86-debug/CMakeFiles/SPO_6_labs.dir
+C:/Users/iamal/source/repos/SPO_6_labs/out/build/x86-debug/CMakeFiles/FuzzyRelationsDll.dir
+C:/Users/iamal/source/repos/SPO_6_labs/out/build/x86-debug/CMakeFiles/edit_cache.dir
+C:/Users/iamal/source/repos/SPO_6_labs/out/build/x86-debug/CMakeFiles/rebuild_cache.dir
